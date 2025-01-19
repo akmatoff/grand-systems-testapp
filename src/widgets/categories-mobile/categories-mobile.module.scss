@@ -1,0 +1,17 @@
+button {
+  outline: none;
+  background: var(--content);
+  border-radius: var(--primary-radius);
+  border: none;
+  padding: 12px 24px;
+}
+
+.category-item {
+  padding: 16px 0;
+
+  text-align: center;
+
+  &.active {
+    color: var(--primary-color);
+  }
+}

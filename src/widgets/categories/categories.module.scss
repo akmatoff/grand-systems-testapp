@@ -1,0 +1,26 @@
+.categories {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: scroll;
+  scrollbar-width: 0;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.category-item {
+  cursor: pointer;
+  transition: 0.2s ease-out;
+  background: var(--content);
+  padding: 8px 20px;
+  border-radius: var(--primary-radius);
+  font-size: 14px;
+}
+
+.active {
+  color: white;
+  background: var(--primary-color);
+}

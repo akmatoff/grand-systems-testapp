@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук Acer Aspire 5",
+      "price": 45990,
+      "category": "Электроника",
+      "description": "Ноутбук с процессором Intel Core i5, 8 ГБ оперативной памяти, 512 ГБ SSD.",
+      "image": "https://m.media-amazon.com/images/I/71sesDsw95L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Смартфон Samsung Galaxy S23",
+      "price": 79990,
+      "category": "Смартфоны",
+      "description": "Смартфон с AMOLED экраном, 128 ГБ памяти и камерой 50 МП.",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-140900/Samsung-Galaxy-S23_-featured-image-packshot-review.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Телевизор LG 55UN73006LA",
+      "price": 34990,
+      "category": "Электроника",
+      "description": "Телевизор с диагональю 55 дюймов, поддержка 4K, Smart TV.",
+      "image": "https://www.giztele.com/wp-content/uploads/2020/07/L-4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Кофеварка DeLonghi ECAM 22.110",
+      "price": 23990,
+      "category": "Кухонная техника",
+      "description": "Автоматическая кофеварка с функцией молочного вспенивания.",
+      "image": "https://domkofe.ge/wp-content/uploads/2018/03/sitee-60.png"
+    },
+    {
+      "id": 5,
+      "name": "Электрический скейтборд Xiaomi Mi Electric Skateboard",
+      "price": 27990,
+      "category": "Транспорт",
+      "description": "Электрический скейтборд с дальностью до 30 км и максимальной скоростью 25 км/ч.",
+      "image": "https://s.alicdn.com/@sc04/kf/Had25394b18d94dc2a76697bf4ae84c51l.jpg_720x720q50.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Наушники Sony WH-1000XM4",
+      "price": 27990,
+      "category": "Аудио",
+      "description": "Беспроводные наушники с активным шумоподавлением и до 30 часов работы.",
+      "image": "https://m.media-amazon.com/images/I/6162Umyop-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Пылесос Dyson V15 Detect",
+      "price": 59990,
+      "category": "Кухонная техника",
+      "description": "Беспроводной пылесос с лазерной подсветкой для лучшей уборки.",
+      "image": "https://dysshop.kg/wp-content/uploads/2022/04/01.b939cca712d3d715fb9e311194cff324.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Игровая консоль Sony PlayStation 5",
+      "price": 49990,
+      "category": "Электроника",
+      "description": "Новая игровая консоль с поддержкой 4K и SSD для быстрого запуска игр.",
+      "image": "https://smvkt.com/cdn/shop/files/playstation-5_20e37d85-0a4f-4207-8b31-62b16f42d1c0.png?v=1710433931"
+    },
+    {
+      "id": 9,
+      "name": "Электросамокат Ninebot Max G30",
+      "price": 45990,
+      "category": "Транспорт",
+      "description": "Электросамокат с запасом хода до 65 км и встроенным дисплеем.",
+      "image": "https://voltride.com/wp-content/uploads/2021/06/MAX-G30LE-3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Смарт-часы Apple Watch Series 8",
+      "price": 37990,
+      "category": "Электроника",
+      "description": "Смарт-часы с датчиком температуры тела и функцией определения падения.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGURjqgQ9Xgj9AdLnQkk4i1pYVfke_n-O-jw&s"
+    },
+    {
+      "id": 11,
+      "name": "Колонки JBL Charge 5",
+      "price": 12990,
+      "category": "Аудио",
+      "description": "Портативная колонка с защитой от воды и временем работы до 20 часов.",
+      "image": "https://www.jblstore.it/cdn/shop/files/3.jpg?v=1686338633&width=1946"
+    },
+    {
+      "id": 12,
+      "name": "Монитор Dell UltraSharp 27",
+      "price": 29990,
+      "category": "Электроника",
+      "description": "27-дюймовый монитор с разрешением 4K и поддержкой HDR.",
+      "image": "https://cdata.b-cdn.net/images/thumbs/0013671_dell-ultrasharp-27-usb-c-hub-monitor-u2722de-6847cm-27_600.jpeg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Электроника"
+    },
+    {
+      "id": 2,
+      "name": "Смартфоны"
+    },
+    {
+      "id": 3,
+      "name": "Кухонная техника"
+    },
+    {
+      "id": 4,
+      "name": "Транспорт"
+    },
+    {
+      "id": 5,
+      "name": "Аудио"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.products-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+  .header {
+    display: flex;
+    gap: 16px;
+  }
+}
